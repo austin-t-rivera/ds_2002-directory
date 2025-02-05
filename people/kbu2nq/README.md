@@ -1,6 +1,6 @@
 # Jason Ye
 
-![Path to an image](myphoto.jpg)
+![Path to an image](headshot.gif)
 
 - Hometown: Onley, VA 
 - Hobbies: Football, lifting, hiking, cooking 
