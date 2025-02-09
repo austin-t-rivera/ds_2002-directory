@@ -1,4 +1,4 @@
-#! /c/Users/ashle/AppData/Local/Microsoft/WindowsApps/python
+#!/c/Users/ashle/AppData/Local/Microsoft/WindowsApps/python
 import os
 os.environ["FAV_FLAVOR"] = "Vanilla"
 os.environ["AGE"] = "34"
