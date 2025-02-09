@@ -1,4 +1,4 @@
-#! /c/Users/ashle/AppData/Local/Microsoft/WindowsApps/python
+#!/c/Users/ashle/AppData/Local/Microsoft/WindowsApps/python
 import os
 import json
 import requests
