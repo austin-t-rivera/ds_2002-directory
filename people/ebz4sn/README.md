@@ -1,4 +1,4 @@
-# Your Name
+# Shreeja Tangutur
 
 ![Path to an image](myphoto.jpg)
 
